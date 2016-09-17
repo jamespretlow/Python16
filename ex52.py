@@ -8,7 +8,7 @@
 count = 0
 total = 0
 while True:
-    iput = raw_input('Enter Number')
+    iput = raw_input('Enter Number: ')
     
     #Handle edge cases
     if iput == 'done' : break
